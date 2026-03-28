@@ -1,3 +1,4 @@
+import React from "react";
 const Header = () => {
   const links = [
     { label: "Benefícios", href: "#beneficios" },
