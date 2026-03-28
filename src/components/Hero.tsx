@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import heroImg from "@/assets/hero-mockup.jpg";
+import heroImg from "../assets/hero-mockup.jpg";
 
 const Hero = () => (
   <section className="section-padding pt-32 md:pt-40 overflow-hidden">
