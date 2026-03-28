@@ -1,9 +1,9 @@
 import { motion } from "framer-motion";
 import { ArrowRight } from "lucide-react";
-import projectClinico from "@/assets/project-clinico.jpg";
-import projectCasais from "@/assets/project-casais.jpg";
-import projectInfantil from "@/assets/project-infantil.jpg";
-import projectOnline from "@/assets/project-online.jpg";
+import projectClinico from "../assets/project-clinico.jpg";
+import projectCasais from "../assets/project-casais.jpg";
+import projectInfantil from "../assets/project-infantil.jpg";
+import projectOnline from "../assets/project-online.jpg";
 
 const projects = [
   { img: projectClinico, title: "Psicólogo Clínico", desc: "Site completo com agendamento online, apresentação de especialidades e blog integrado." },
