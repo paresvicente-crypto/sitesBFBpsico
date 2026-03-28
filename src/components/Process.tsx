@@ -1,3 +1,4 @@
+import React from "react";
 import { motion } from "framer-motion";
 import { MessageSquare, Palette, Code2, Rocket } from "lucide-react";
 
