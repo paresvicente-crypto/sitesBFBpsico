@@ -1,3 +1,4 @@
+import React from "react";
 const Footer = () => (
   <footer className="border-t border-border py-10">
     <div className="container mx-auto px-6 flex flex-col md:flex-row items-center justify-between gap-4">
